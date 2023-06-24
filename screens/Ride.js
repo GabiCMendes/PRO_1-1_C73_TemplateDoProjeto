@@ -16,7 +16,7 @@ import { BarCodeScanner } from "expo-barcode-scanner";
 import firebase from "firebase";
 import db from "../config";
 
-const bgImage = require("../assets/background2.png");
+const bgImage = require("../assets/background2.png");   
 const appIcon = require("../assets/appIcon.png");
 
 export default class RideScreen extends Component {
